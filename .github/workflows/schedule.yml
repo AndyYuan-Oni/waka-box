@@ -6,7 +6,7 @@ jobs:
   update-gist:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@main
       - name: Update gist
         uses: AndyYuan-Oni/waka-box@master
         env:
