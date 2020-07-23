@@ -6,7 +6,7 @@
 
 ---
 
-![Waka-box working](https://github.com/AndyYuan-Oni/waka-box/workflows/.github/workflows/schedule.yml/badge.svg)
+![Waka-box working](https://github.com/AndyYuan-Oni/waka-box/workflows/Update%20gist%20with%20WakaTime%20stats/badge.svg)
 
 > 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
 
